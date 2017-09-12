@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigationBarDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_second">Second</string>
+    <string name="action_three">three</string>
+    <string name="action_four">four</string>
+</resources>
